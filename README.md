@@ -1,7 +1,20 @@
 # Mars-Rover-Java
+
+## Base template
 Mars Rover challenge base Java application
 
-## Instructions
+### To build 
+run `gradle build`
+
+### To run tests
+run `gradle test` 
+
+
+
+
+
+
+# Instructions
 A squad of robotic rovers are to be landed by NASA on a plateau on Mars.
 
 This plateau, which is curiously rectangular, must be navigated by the rovers so that their onboard cameras can get a complete view of the surrounding terrain to send back to Earth.
